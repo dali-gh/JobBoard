@@ -484,3 +484,7 @@ $RECYCLE.BIN/
 
 appsettings.Local.json
 appsettings.*.local.json
+JobBoard.API/appsettings.json 
+JobBoard.API/appsettings.Development.json 
+JobBoard.API/appsettings.json 
+JobBoard.API/appsettings.Development.json 

@@ -1,7 +1,7 @@
 # JobBoard
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)
+![.NET](https://img.shields.io/badge/.NET-10.0-512BD4)
 ![GraphQL](https://img.shields.io/badge/GraphQL-HotChocolate-E10098)
 ![SQL Server](https://img.shields.io/badge/database-SQL%20Server-CC2927)
 
